@@ -47,6 +47,8 @@
   <ItemGroup>
      <Compile Include="Assets\_Scripts\flashLight.js" />
      <Compile Include="Assets\_Scripts\footStep.js" />
+     <Compile Include="Assets\_Scripts\levelLoad.js" />
+     <Compile Include="Assets\_Scripts\mainMenu.js" />
      <Compile Include="Assets\_Scripts\trig.js" />
      <Compile Include="Assets\ats Package\Demoscene\Controller\flyControllerScript.js" />
      <Compile Include="Assets\ats Package\ats vertexLitShader Package\Script\setupVertexLitShader.js" />

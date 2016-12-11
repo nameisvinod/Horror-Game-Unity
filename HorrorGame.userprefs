@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\trig.js">
+    <Files>
+      <File FileName="Assets\_Scripts\levelLoad.js" Line="12" Column="1" />
+      <File FileName="Assets\_Scripts\footStep.js" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\flashLight.js" Line="7" Column="31" />
+      <File FileName="Assets\_Scripts\trig.js" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

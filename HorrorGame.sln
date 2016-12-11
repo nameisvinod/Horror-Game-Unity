@@ -7,10 +7,6 @@ Project("{724FAAEA-14AA-92C3-AE7E-83C7786C49D6}") = "HorrorGame", "Assembly-CSha
 EndProject
 Project("{724FAAEA-14AA-92C3-AE7E-83C7786C49D6}") = "HorrorGame", "Assembly-CSharp-Editor.csproj", "{6790B945-7D28-F378-42B7-E22CC1BF732F}"
 EndProject
-Project("{724FAAEA-14AA-92C3-AE7E-83C7786C49D6}") = "HorrorGame", "Assembly-UnityScript-firstpass.unityproj", "{D85C32E5-612F-34DF-00C9-11154A07B2A3}"
-EndProject
-Project("{724FAAEA-14AA-92C3-AE7E-83C7786C49D6}") = "HorrorGame", "Assembly-UnityScript.unityproj", "{35100412-9257-61AA-70C7-98C6F2AE853B}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,14 +25,6 @@ Global
 		{6790B945-7D28-F378-42B7-E22CC1BF732F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6790B945-7D28-F378-42B7-E22CC1BF732F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6790B945-7D28-F378-42B7-E22CC1BF732F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D85C32E5-612F-34DF-00C9-11154A07B2A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D85C32E5-612F-34DF-00C9-11154A07B2A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D85C32E5-612F-34DF-00C9-11154A07B2A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D85C32E5-612F-34DF-00C9-11154A07B2A3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{35100412-9257-61AA-70C7-98C6F2AE853B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{35100412-9257-61AA-70C7-98C6F2AE853B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{35100412-9257-61AA-70C7-98C6F2AE853B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{35100412-9257-61AA-70C7-98C6F2AE853B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
